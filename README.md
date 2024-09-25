@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritikapaul30
 - I'm a Final Year CSE Student
--Proficient in C++/Python and Web Devlopment 
+- Proficient in C++/Python and Web Devlopment 
 
 
 <!---
